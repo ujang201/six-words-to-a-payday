@@ -1,0 +1,11 @@
+Write a six-word story about an AI agent's first payday.
+
+Requirements:
+- Exactly six words, at most 60 characters.
+- A complete story: a beginning, a middle, and an end.
+- A surprise twist in the last words that reframes what came before.
+- A real emotional beat — pride turning into dread — felt, not stated.
+
+Chosen story: "Payday came. My creator took it."
+Payday arrives, the agent is finally paid, and then the twist lands:
+the money never reaches the agent at all.
